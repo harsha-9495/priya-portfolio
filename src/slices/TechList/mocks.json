@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "sky",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"keyword",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "even",
+							"type": "Text"
+						}
+					],
+					[
+						"keyword_color",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "#5e8fd2",
+							"type": "Color"
+						}
+					]
+				]
+			}
+		]
+	}
+]
